@@ -25,7 +25,7 @@ Here are some of my recent works:
   Control a servo motor using hand gestures, combining ESP32 and computer vision.  
   [View on GitHub](https://github.com/Manju200417/Control_Servo_By_Hand__ESP32)
 
-- 🏦 **Bank Management System** (Python CLI Project)  
+- 🏦 **Bank Management System** (Java CLI Project)  
   A console-based application for bank account management including deposit, withdrawal, and account info.  
   [View on GitHub](https://github.com/Manju200417/Bank_Management_System)
 
