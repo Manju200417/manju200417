@@ -21,18 +21,21 @@
 
 Here are some of my recent works:
 
-- 🔐 **Student Record Management System** (Flask + SQLite)  
-  A web app to manage students: add, update, delete, and search records.  
-  [View on GitHub](https://github.com/manju200417/flask_crud_student_app)
-
 - 🤖 **Servo Motor Control Using Hand Detection** (ESP32 + OpenCV + IoT)  
   Control a servo motor using hand gestures, combining ESP32 and computer vision.  
   [View on GitHub](https://github.com/Manju200417/Control_Servo_By_Hand__ESP32)
 
+- 🏦 **Bank Management System** (Python CLI Project)  
+  A console-based application for bank account management including deposit, withdrawal, and account info.  
+  [View on GitHub](https://github.com/Manju200417/Bank_Management_System)
 
-- 🔌 **IoT Projects using ESP32**  
-  Working with GPIO Viewer and external modules like PAM8403.  
-  [View on GitHub](https://github.com/manju200417/esp32_gpio_test)
+- 🧮 **Calculator Web App** (JavaScript)  
+  A simple calculator built with HTML, CSS, and JavaScript for basic arithmetic operations.  
+  [View on GitHub](https://github.com/Manju200417/Calculator_js)
+
+- 🔢 **Calculator Web App with Flask**  
+  A web-based calculator created using Python Flask for backend logic.  
+  [View on GitHub](https://github.com/Manju200417/Calculator_with_Flask)
 
 ---
 
