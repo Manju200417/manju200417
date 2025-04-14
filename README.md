@@ -37,6 +37,11 @@ Here are some of my recent works:
   A web-based calculator created using Python Flask for backend logic.  
   [View on GitHub](https://github.com/Manju200417/Calculator_with_Flask)
 
+ - 🎓 Student Management System (Flask + SQLite)
+A full-stack web application to manage student records with features like add, update, delete, and search.
+[Live Demo](https://student-management-system-flask.onrender.com/)
+[View on GitHub](https://github.com/Manju200417/Student-Management-System_Flask)
+
 ---
 
 ## 📈 Currently Learning
