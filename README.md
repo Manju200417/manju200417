@@ -31,10 +31,12 @@ Here are some of my recent works:
 
 - 🧮 **Calculator Web App** (JavaScript)  
   A simple calculator built with HTML, CSS, and JavaScript for basic arithmetic operations.  
+  [Live Demo]( https://manju200417.github.io/Calculator_js/)  
   [View on GitHub](https://github.com/Manju200417/Calculator_js)
 
 - 🔢 **Calculator Web App with Flask**  
   A web-based calculator created using Python Flask for backend logic.  
+  [Live Demo](https://calculator-with-flask.onrender.com/)  
   [View on GitHub](https://github.com/Manju200417/Calculator_with_Flask)
 
  - 🎓 Student Management System (Flask + SQLite)
