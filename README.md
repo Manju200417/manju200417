@@ -2,7 +2,7 @@
 
 #  I'm Manjunath Alagawadi
 
-🎓 I'm a BCA 4th semester student passionate about software development and IoT.  
+🎓 I'm a BCA student passionate about software development and IoT.  
 💡 I enjoy building web apps using Python and Flask, and working on electronics projects using ESP32.
 
 ---
