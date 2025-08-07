@@ -1,11 +1,11 @@
-# Manjunath Alagawadi😉
+# Manjunath Alagawadi 😉
 
 I'm a BCA student passionate about software development and IoT.  
 I enjoy building web apps using Python and Flask, and working on electronics projects using ESP32.
 
 ---
 
-## Tech Skills
+## 🛠️ Tech Skills
 
 - **Languages:** Python, C, Java, JavaScript  
 - **Web:** HTML, CSS, JavaScript, Flask  
@@ -15,7 +15,7 @@ I enjoy building web apps using Python and Flask, and working on electronics pro
 
 ---
 
-## Projects
+## 📂 Projects
 
 Here are some of my recent works:
 
@@ -44,10 +44,11 @@ Here are some of my recent works:
 
 ---
 
-## Let's Connect
+### 🔗 Connect with Me
 
-- Email: manjuguru814@gmail.com  
-- GitHub: [manju200417](https://github.com/manju200417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manju-alagawadi-483508243/)
+[![GitHub](https://img.shields.io/badge/GitHub-manju200417-black?style=flat&logo=github)](https://github.com/manju200417)
+[![Gmail](https://img.shields.io/badge/Email-manjuguru814@gmail.com-red?style=flat&logo=gmail)](mailto:manjuguru814@gmail.com)
 
 ---
 
