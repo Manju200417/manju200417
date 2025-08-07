@@ -40,7 +40,10 @@ Here are some of my recent works:
 - **Student Management System V2** (Flask + SQLite + HTML/CSS)  
   A responsive full-stack student management app with login/sign-up, admin dashboard, and full CRUD functionality.  
   [Live Demo](https://manju200417.pythonanywhere.com/)  
-  [View Repo](https://github.com/Manju200417/Manju200417-Student-Management-System-V2)
+  [View Repo](https://github.com/Manju200417/Manju200417-Student-Management-System-V2)Z
+## 🏅 Certifications
+
+- **Java Programming Certificate** – [View Certificate](https://www.hackerrank.com/certificates/4e883ca68aa8)
 
 ---
 
