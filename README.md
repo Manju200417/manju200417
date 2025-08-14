@@ -1,6 +1,6 @@
-# Manjunath Alagawadi 
+# ***Manjunath Alagawadi*** 
 
-I'm a BCA student passionate about software development and IoT.  
+I'm a student passionate about software development and IoT.  
 I enjoy building web apps using Python and Flask, and working on electronics projects using ESP32.
 
 ---
@@ -41,6 +41,9 @@ Here are some of my recent works:
   A responsive full-stack student management app with login/sign-up, admin dashboard, and full CRUD functionality.  
   [Live Demo](https://manju200417.pythonanywhere.com/)  
   [View Repo](https://github.com/Manju200417/Manju200417-Student-Management-System-V2)
+
+---
+
 ##  Certifications
 
 - **Java Programming Certificate** – [View Certificate](https://www.hackerrank.com/certificates/4e883ca68aa8)
