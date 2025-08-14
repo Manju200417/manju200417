@@ -1,11 +1,11 @@
-# Manjunath Alagawadi 😉
+# Manjunath Alagawadi 
 
 I'm a BCA student passionate about software development and IoT.  
 I enjoy building web apps using Python and Flask, and working on electronics projects using ESP32.
 
 ---
 
-## 🛠️ Tech Skills
+##  Tech Skills
 
 - **Languages:** Python, C, Java, JavaScript  
 - **Web:** HTML, CSS, JavaScript, Flask  
@@ -15,7 +15,7 @@ I enjoy building web apps using Python and Flask, and working on electronics pro
 
 ---
 
-## 📂 Projects
+##  Projects
 
 Here are some of my recent works:
 
@@ -41,13 +41,13 @@ Here are some of my recent works:
   A responsive full-stack student management app with login/sign-up, admin dashboard, and full CRUD functionality.  
   [Live Demo](https://manju200417.pythonanywhere.com/)  
   [View Repo](https://github.com/Manju200417/Manju200417-Student-Management-System-V2)
-## 🏅 Certifications
+##  Certifications
 
 - **Java Programming Certificate** – [View Certificate](https://www.hackerrank.com/certificates/4e883ca68aa8)
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manju-alagawadi-483508243/)
 [![GitHub](https://img.shields.io/badge/GitHub-manju200417-black?style=flat&logo=github)](https://github.com/manju200417)
