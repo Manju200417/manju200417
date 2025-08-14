@@ -1,4 +1,4 @@
-# ***Manjunath Alagawadi*** 
+<h1 align="center">Manjunath Alagawadi</h1>
 
 I'm a student passionate about software development and IoT.  
 I enjoy building web apps using Python and Flask, and working on electronics projects using ESP32.
