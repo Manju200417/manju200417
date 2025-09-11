@@ -8,10 +8,10 @@ I enjoy building web apps using Python and Flask, and working on electronics pro
 ##  Tech Skills
 
 - **Languages:** Python, C, Java, JavaScript  
-- **Web:** HTML, CSS, JavaScript, Flask  
+- **Web:** HTML, CSS, JavaScript, Flask, Fast Api, Rest Api  
 - **Database:** SQLite  
 - **IoT:** ESP32, Arduino, GPIO Projects  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code,Burp suite   
 
 ---
 
@@ -20,7 +20,7 @@ I enjoy building web apps using Python and Flask, and working on electronics pro
 Here are some of my recent works:
 
 - **Servo Motor Control Using Hand Detection** (ESP32 + OpenCV + IoT)  
-  Control a servo motor using hand gestures, combining ESP32 and computer vision.  
+  Control a servo motor using hagesturesres, combining ESP32 and computer vision.  
   [View Repo](https://github.com/Manju200417/Control_Servo_By_Hand__ESP32)
 
 - **Bank Management System** (Java CLI Project)  
