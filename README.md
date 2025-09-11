@@ -9,8 +9,8 @@ I enjoy building web apps using Python and Flask, and working on electronics pro
 
 - **Languages:** Python, C, Java, JavaScript  
 - **Web:** HTML, CSS, JavaScript, Flask, Fast Api, Rest Api  
-- **Database:** SQLite  
-- **IoT:** ESP32, Arduino, GPIO Projects  
+- **Database:** SQLite, MySql  
+- **IoT:** ESP32, Arduino, ESP, Servo, BLDC  
 - **Tools:** Git, GitHub, VS Code,Burp suite   
 
 ---
